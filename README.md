@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EMS React Frontend
 
 This project replaces the old HTML/CSS/JavaScript frontend with React.
@@ -35,3 +36,6 @@ The React app uses the same endpoints from the existing EMS backend:
 - `/api/holidays/{id}/status?status=0|1`
 
 If Vite and Spring Boot run on different ports, configure a Vite proxy or enable CORS in Spring Boot.
+=======
+# My_Development_Projects
+>>>>>>> 7a2e29a4fff823ba39b90d75d5fe4e372f7cbf33
